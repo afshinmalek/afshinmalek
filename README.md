@@ -39,15 +39,6 @@ Computer science graduate student at Cal State East Bay (Conditional M.S. Bridge
 **Systems & Algorithms:** C++, Java, data structures & algorithms, concurrency, memory management, file I/O streams, computer architecture
 **Full-Stack:** React, Node.js, Express.js, MongoDB, RESTful APIs, JSON
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=afshinmalek&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afshinmalek&layout=compact&theme=default)
-
-</div>
-
 ---
 
 📍 Berkeley, CA
