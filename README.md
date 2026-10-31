@@ -31,6 +31,15 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
+**Pinned Project Tools**
+
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+![JDK](https://img.shields.io/badge/JDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-5382A1?style=for-the-badge&logoColor=white)
+![Java Sockets](https://img.shields.io/badge/Java_Sockets-007396?style=for-the-badge&logoColor=white)
+
+
 </div>
 
 ---
