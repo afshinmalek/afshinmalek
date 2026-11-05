@@ -48,16 +48,16 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a career-changer turned computer science graduate student. I started with a B.S. in Business Administration (Finance), then completed post-baccalaureate CS and math at Peralta — **4.00 GPA across 45 units, Dean's List, and Certified Peer Tutor** — and I'm now doing graduate bridge coursework at Cal State East Bay, targeting **Georgia Tech's OMSCS Computing Systems track for Fall 2027**.
+I'm a career-changer turned computer science graduate student. I started with a B.S. in Business Administration (Finance), then completed post-baccalaureate CS and math at Peralta - **4.00 GPA across 45 units, Dean's List, and Certified Peer Tutor** - and I'm now doing graduate bridge coursework at Cal State East Bay, targeting **Georgia Tech's OMSCS Computing Systems track for Fall 2027**.
 
-I like the systems side of software: how data structures actually behave, how concurrency actually breaks, and how files, networks, and processes actually work — then building something real on top of that understanding.
+I like the systems side of software: how data structures actually behave, how concurrency actually breaks, and how files, networks, and processes actually work - then building something real on top of that understanding.
 
 ## 🚀 Featured Projects
 
 | Rank | Project | Stack | What it does |
 | --- | --- | --- | --- |
 | 1 | [Battleships](https://github.com/afshinmalek/battleships) | Java, Swing, Sockets | Networked Swing Battleships on 25x25 grids, with a hit/miss/sunk/win protocol and synchronized turn state |
-| 2 | [BookMe — Booking App](https://github.com/afshinmalek/bookedCRA-client) | React, Redux, Express, MongoDB | Full-stack booking app: calendar booking, Google sign-in, confirmation emails with cancellation links, and unique date + time enforcement in MongoDB ([server](https://github.com/afshinmalek/bookedCRA-server)) |
+| 2 | [BookMe - Booking App](https://github.com/afshinmalek/bookedCRA-client) | React, Redux, Express, MongoDB | Full-stack booking app: calendar booking, Google sign-in, confirmation emails with cancellation links, and unique date + time enforcement in MongoDB ([server](https://github.com/afshinmalek/bookedCRA-server)) |
 | 3 | [Spaced Repetition Quiz Engine](https://github.com/afshinmalek/spaced-repetition-quiz-engine) | C++, OOP, File I/O, CLI | Command-line study tool with streak-based mastery, and CSV question decks for algorithms and ML/systems interview prep |
 | 4 | [Red-Black BST](https://github.com/afshinmalek/red-black-bst) | Java, Data Structures | Generic self-balancing red-black tree with logarithmic insertion, deletion, and traversal |
 | 5 | [Dijkstra Shortest Path](https://github.com/afshinmalek/dijkstra-shortest-path) | Java, Graphs, Priority Queues | Dijkstra's algorithm over an indexed min-priority queue on a 50-node graph, finding the nearest field station |
@@ -85,7 +85,7 @@ I like the systems side of software: how data structures actually behave, how co
 
 ## 🔭 Right Now
 
-- Deepening systems and concurrency work — operating systems and algorithm analysis next
+- Deepening systems and concurrency work - operating systems and algorithm analysis next
 - Keeping the pinned projects polished: real READMEs, real run instructions, no boilerplate
 - Building toward OMSCS Computing Systems, Fall 2027
 
