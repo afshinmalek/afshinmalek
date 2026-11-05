@@ -56,7 +56,7 @@ I like the systems side of software: how data structures actually behave, how co
 | --- | --- | --- | --- |
 | 1 | [Battleships](https://github.com/afshinmalek/battleships) | Java, Swing, Sockets | Networked Swing Battleships on 25x25 grids, with a hit/miss/sunk/win protocol and synchronized turn state |
 | 2 | [BookMe — Booking App](https://github.com/afshinmalek/bookedCRA-client) | React, Redux, Express, MongoDB | Full-stack booking app: calendar booking, Google sign-in, confirmation emails with cancellation links, and unique date + time enforcement in MongoDB ([server](https://github.com/afshinmalek/bookedCRA-server)) |
-| 3 | [Spaced Repetition Quiz Engine](https://github.com/afshinmalek/spaced-repetition-quiz-engine) | C++, OOP, File I/O, CLI | Command-line study tool with SuperMemo-inspired scheduling, streak-based mastery, and CSV question decks for algorithms and ML/systems interview prep |
+| 3 | [Spaced Repetition Quiz Engine](https://github.com/afshinmalek/spaced-repetition-quiz-engine) | C++, OOP, File I/O, CLI | Command-line study tool with streak-based mastery, and CSV question decks for algorithms and ML/systems interview prep |
 | 4 | [Red-Black BST](https://github.com/afshinmalek/red-black-bst) | Java, Data Structures | Generic self-balancing red-black tree with logarithmic insertion, deletion, and traversal |
 | 5 | [Dijkstra Shortest Path](https://github.com/afshinmalek/dijkstra-shortest-path) | Java, Graphs, Priority Queues | Dijkstra's algorithm over an indexed min-priority queue on a 50-node graph, finding the nearest field station |
 | 6 | [Lazy Prim's MST](https://github.com/afshinmalek/lazy-prim-mst) | Java, Graphs | Lazy Prim's minimum spanning tree for a cable network, with per-station costs to pick the cheapest station |
@@ -76,8 +76,8 @@ I like the systems side of software: how data structures actually behave, how co
 ## 🛠️ What I Work With
 
 **Languages:** C++, C, Java, JavaScript (ES6+), x86 / MIPS Assembly, SQL, Bash, HTML5, CSS3
-**Systems:** Object-Oriented Design, Data Structures & Algorithms, Computer Architecture, Memory Management, Linux/POSIX CLI, File I/O Streams
-**Web:** React, Node.js, Express.js, MongoDB, RESTful APIs, JSON
+**Systems:** Object-Oriented Design, Data Structures & Algorithms, Computer Architecture, Memory Management, Linux/POSIX CLI, File I/O Streams, Concurrency, Networking
+**Web:** React, Redux Toolkit, Node.js, Express.js, MongoDB, RESTful APIs, JSON
 **Tools:** Git, GitHub, Make/CMake, VS Code, GDB
 **Math:** Discrete Mathematics, Linear Algebra, Multivariable Calculus
 
