@@ -49,7 +49,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afshinmalek) [![Resume](https://img.shields.io/badge/Resume-181717?style=for-the-badge)](./Afshin-Malek-Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afshinmalek) [![Resume](https://img.shields.io/badge/Resume-00C853?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Afshin-Malek-Resume.pdf)
 
 ## 🙋‍♂️ About Me
 
