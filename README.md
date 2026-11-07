@@ -49,6 +49,8 @@
 
 ---
 
+📄 [Download my resume (PDF)](./Afshin-Malek-Resume.pdf)
+
 ## 🙋‍♂️ About Me
 
 I'm a career-changer turned computer science graduate student. I started with a B.S. in Business Administration (Finance), then completed post-baccalaureate CS and math at Peralta - **4.00 GPA across 45 units, Dean's List, and Certified Peer Tutor** - and I'm now doing graduate bridge coursework at Cal State East Bay, targeting **Georgia Tech's OMSCS Computing Systems track for Fall 2027**.
@@ -80,7 +82,7 @@ I like the systems side of software: how data structures actually behave, how co
 
 ## 🛠️ What I Work With
 
-**Languages:** C++, C, Java, JavaScript (ES6+), x86 / MIPS Assembly, SQL, Bash, HTML5, CSS3
+**Languages:** C++, C, Java, Python, JavaScript (ES6+), x86 / MIPS Assembly, SQL, Bash, HTML5, CSS3
 **Systems:** Object-Oriented Design, Data Structures & Algorithms, Computer Architecture, Memory Management, Linux/POSIX CLI, File I/O Streams, Concurrency, Networking
 **Web:** React, Redux Toolkit, Node.js, Express.js, MongoDB, RESTful APIs, JSON
 **Tools:** Git, GitHub, Make/CMake, VS Code, GDB
