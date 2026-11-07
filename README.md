@@ -51,7 +51,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afshinmalek) [![Resume](https://img.shields.io/badge/Resume-00C853?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Afshin-Malek-Resume.pdf)
 
-## 🙋♂️ About Me
+## 🙋‍♂️ About Me
 
 I'm a career-changer turned computer science graduate student. I started with a B.S. in Business Administration (Finance), then completed post-baccalaureate CS and math at Peralta - **4.00 GPA across 45 units, Dean's List, and Certified Peer Tutor** - and I'm now doing graduate bridge coursework at Cal State East Bay, targeting **Georgia Tech's OMSCS Computing Systems track for Fall 2027**.
 
