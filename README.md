@@ -44,16 +44,16 @@
 ![Swing](https://img.shields.io/badge/Swing-5382A1?style=for-the-badge&logoColor=white)
 ![Java Sockets](https://img.shields.io/badge/Java_Sockets-007396?style=for-the-badge&logoColor=white)
 
+
 </div>
 
 ---
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afshinmalek) [![Resume](https://img.shields.io/badge/Resume-00C853?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Afshin-Malek-Resume.pdf)
 
 ## 🙋♂️ About Me
 
-I'm a career-changer turned computer science graduate student. I started with a B.S. in Business Administration (Finance), then completed post-baccalaureate CS and math at Peralta - **4.00 GPA across 45 units, Dean's List, and Certified Peer Tutor** - and I'm now doing graduate bridge coursework at Cal State East Bay, targeting **Georgia Tech's OMSCS Computing Systems track for Fall 2027.**
+I'm a career-changer turned computer science graduate student. I started with a B.S. in Business Administration (Finance), then completed post-baccalaureate CS and math at Peralta - **4.00 GPA across 45 units, Dean's List, and Certified Peer Tutor** - and I'm now doing graduate bridge coursework at Cal State East Bay, targeting **Georgia Tech's OMSCS Computing Systems track for Fall 2027**.
 
 I like the systems side of software: how data structures actually behave, how concurrency actually breaks, and how files, networks, and processes actually work - then building something real on top of that understanding.
 
