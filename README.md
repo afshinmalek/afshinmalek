@@ -44,16 +44,16 @@
 ![Swing](https://img.shields.io/badge/Swing-5382A1?style=for-the-badge&logoColor=white)
 ![Java Sockets](https://img.shields.io/badge/Java_Sockets-007396?style=for-the-badge&logoColor=white)
 
-
 </div>
 
 ---
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afshinmalek) [![Resume](https://img.shields.io/badge/Resume-00C853?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Afshin-Malek-Resume.pdf)
 
-## 🙋‍♂️ About Me
+## 🙋♂️ About Me
 
-I'm a career-changer turned computer science graduate student. I started with a B.S. in Business Administration (Finance), then completed post-baccalaureate CS and math at Peralta - **4.00 GPA across 45 units, Dean's List, and Certified Peer Tutor** - and I'm now doing graduate bridge coursework at Cal State East Bay, targeting **Georgia Tech's OMSCS Computing Systems track for Fall 2027**.
+I'm a career-changer turned computer science graduate student. I started with a B.S. in Business Administration (Finance), then completed post-baccalaureate CS and math at Peralta - **4.00 GPA across 45 units, Dean's List, and Certified Peer Tutor** - and I'm now doing graduate bridge coursework at Cal State East Bay, targeting **Georgia Tech's OMSCS Computing Systems track for Fall 2027.**
 
 I like the systems side of software: how data structures actually behave, how concurrency actually breaks, and how files, networks, and processes actually work - then building something real on top of that understanding.
 
@@ -61,24 +61,24 @@ I like the systems side of software: how data structures actually behave, how co
 
 | Project |
 | --- |
-| **1. [Battleships](https://github.com/afshinmalek/battleships)**<br>`Java, Swing, Sockets`<br>Networked Swing Battleships on 25x25 grids, with a hit/miss/sunk/win protocol and synchronized turn state |
-| **2. [BookMe - Booking App](https://github.com/afshinmalek/bookedCRA-client)**<br>`React, Redux, Express, MongoDB`<br>Full-stack booking app: calendar booking, Google sign-in, confirmation emails with cancellation links, and unique date + time enforcement in MongoDB ([server](https://github.com/afshinmalek/bookedCRA-server)) |
-| **3. [Spaced Repetition Quiz Engine](https://github.com/afshinmalek/spaced-repetition-quiz-engine)**<br>`C++, OOP, File I/O, CLI`<br>Command-line study tool with streak-based mastery, and CSV question decks for algorithms and ML/systems interview prep |
-| **4. [Red-Black BST](https://github.com/afshinmalek/red-black-bst)**<br>`Java, Data Structures`<br>Generic self-balancing red-black tree with logarithmic insertion, deletion, and traversal |
-| **5. [Dijkstra Shortest Path](https://github.com/afshinmalek/dijkstra-shortest-path)**<br>`Java, Graphs, Priority Queues`<br>Dijkstra's algorithm over an indexed min-priority queue on a 50-node graph, finding the nearest field station |
-| **6. [Lazy Prim's MST](https://github.com/afshinmalek/lazy-prim-mst)**<br>`Java, Graphs`<br>Lazy Prim's minimum spanning tree for a cable network, with per-station costs to pick the cheapest station |
-| **7. [Fork/Join Distance Calculator](https://github.com/afshinmalek/fork-join-distance-calculator)**<br>`Java, Concurrency`<br>Fork/Join parallelism benchmarked against single-threaded execution on 10 million point pairs |
-| **8. [File Processing Utilities](https://github.com/afshinmalek/file-processing)**<br>`C++, File I/O, Stream Parsing`<br>20 single-pass streaming utilities parsing CSV, delimited, key=value, fixed-width, and quoted-field files, with header-aware aggregation and filtering |
-| **9. [Supplier-Consumer Threads](https://github.com/afshinmalek/supplier-consumer-threads)**<br>`Java, Concurrency`<br>Ten suppliers and ten consumers coordinated through a shared room with synchronized wait/notify |
-| **10. [Game of Life](https://github.com/afshinmalek/game-of-life)**<br>`Java, Swing`<br>Swing GUI for Conway's Game of Life with a threaded generation loop and user-chosen grid size |
+| **1. [Battleships](https://github.com/afshinmalek/battleships)**<br><small>Java, Swing, Sockets</small><br><small>Networked Swing Battleships on 25x25 grids, with a hit/miss/sunk/win protocol and synchronized turn state</small> |
+| **2. [BookMe - Booking App](https://github.com/afshinmalek/bookedCRA-client)**<br><small>React, Redux, Express, MongoDB</small><br><small>Full-stack booking app: calendar booking, Google sign-in, confirmation emails with cancellation links, and unique date + time enforcement in MongoDB ([server](https://github.com/afshinmalek/bookedCRA-server))</small> |
+| **3. [Spaced Repetition Quiz Engine](https://github.com/afshinmalek/spaced-repetition-quiz-engine)**<br><small>C++, OOP, File I/O, CLI</small><br><small>Command-line study tool with streak-based mastery, and CSV question decks for algorithms and ML/systems interview prep</small> |
+| **4. [Red-Black BST](https://github.com/afshinmalek/red-black-bst)**<br><small>Java, Data Structures</small><br><small>Generic self-balancing red-black tree with logarithmic insertion, deletion, and traversal</small> |
+| **5. [Dijkstra Shortest Path](https://github.com/afshinmalek/dijkstra-shortest-path)**<br><small>Java, Graphs, Priority Queues</small><br><small>Dijkstra's algorithm over an indexed min-priority queue on a 50-node graph, finding the nearest field station</small> |
+| **6. [Lazy Prim's MST](https://github.com/afshinmalek/lazy-prim-mst)**<br><small>Java, Graphs</small><br><small>Lazy Prim's minimum spanning tree for a cable network, with per-station costs to pick the cheapest spanning cable network</small> |
+| **7. [Fork/Join Distance Calculator](https://github.com/afshinmalek/fork-join-distance-calculator)**<br><small>Java, Concurrency</small><br><small>Fork/Join parallelism benchmarked against single-threaded execution on 10 million point pairs</small> |
+| **8. [File Processing Utilities](https://github.com/afshinmalek/file-processing)**<br><small>C++, File I/O, Stream Parsing</small><br><small>20 single-pass streaming utilities parsing CSV, delimited, key=value, fixed-width, and quoted-field files, with header-aware aggregation and filtering</small> |
+| **9. [Supplier-Consumer Threads](https://github.com/afshinmalek/supplier-consumer-threads)**<br><small>Java, Concurrency</small><br><small>Ten suppliers and ten consumers coordinated through a shared room with synchronized wait/notify</small> |
+| **10. [Game of Life](https://github.com/afshinmalek/game-of-life)**<br><small>Java, Swing</small><br><small>Swing GUI for Conway's Game of Life with a threaded generation loop and user-chosen grid size</small> |
 
 ## 🎓 Education
 
 | Education |
 | --- |
-| **Cal State East Bay**<br>`Graduate Computer Science Bridge (Conditional M.S.)`<br>Aug 2026–Present · Upper-division Data Structures and Algorithms, Computer Organization and Architecture · Planned upper-division Operating Systems, Analysis of Algorithms (Spring 2027) |
-| **Peralta Community College District**<br>`Post-Baccalaureate CS & Mathematics`<br>Aug 2024–May 2026 · GPA 4.00/4.00, 45 units, Dean's List, Certified Peer Tutor |
-| **San Francisco State University**<br>`B.S. Business Administration (Finance)`<br>Jan 2016 · GPA 3.34 |
+| **[Cal State East Bay](https://www.csueastbay.edu/)**<br><small>Graduate Computer Science Bridge (Conditional M.S.)</small><br><small>Aug 2026–Present · Upper-division Data Structures and Algorithms, Computer Organization and Architecture · Planned upper-division Operating Systems, Analysis of Algorithms (Spring 2027)</small> |
+| **[Peralta Community College District](https://www.peralta.edu/)**<br><small>Post-Baccalaureate CS & Mathematics</small><br><small>Aug 2024–May 2026 · GPA 4.00/4.00, 45 units, Dean's List, Certified Peer Tutor</small> |
+| **[San Francisco State University](https://www.sfsu.edu/)**<br><small>B.S. Business Administration (Finance)</small><br><small>Jan 2016 · GPA 3.34</small> |
 
 ## 🔭 Right Now
 
