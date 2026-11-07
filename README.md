@@ -101,11 +101,17 @@ Swing GUI for Conway's Game of Life with a threaded generation loop and user-cho
 
 ## 🎓 Education
 
-| School | Program | Details |
-| --- | --- | --- |
-| **Cal State East Bay** | Graduate Computer Science Bridge (Conditional M.S.) | Aug 2026–Present · Upper-division Data Structures and Algorithms, Computer Organization and Architecture · Planned upper-division Operating Systems, Analysis of Algorithms (Spring 2027) |
-| **Peralta Community College District** | Post-Baccalaureate CS & Mathematics | Aug 2024–May 2026 · GPA 4.00/4.00, 45 units, Dean's List, Certified Peer Tutor |
-| **San Francisco State University** | B.S. Business Administration (Finance) | Jan 2016 · GPA 3.34 |
+### Cal State East Bay
+*Graduate Computer Science Bridge (Conditional M.S.)*
+Aug 2026–Present · Upper-division Data Structures and Algorithms, Computer Organization and Architecture · Planned upper-division Operating Systems, Analysis of Algorithms (Spring 2027)
+
+### Peralta Community College District
+*Post-Baccalaureate CS & Mathematics*
+Aug 2024–May 2026 · GPA 4.00/4.00, 45 units, Dean's List, Certified Peer Tutor
+
+### San Francisco State University
+*B.S. Business Administration (Finance)*
+Jan 2016 · GPA 3.34
 
 ## 🛠️ What I Work With
 
